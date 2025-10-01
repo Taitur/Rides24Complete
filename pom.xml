@@ -27,6 +27,10 @@
 <properties>
     <maven.compiler.target>1.8</maven.compiler.target>
     <maven.compiler.source>1.8</maven.compiler.source>
+  <sonar.organization>taitur</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+<sonar.projectKey>taitur_lab</sonar.projectKey>
+<sonar.login>8732f50888178fe0f948b2e7a6707d8e54dd4aa9</sonar.login>
 </properties>
 
 <!-- https://mvnrepository.com/artifact/junit/junit -->
