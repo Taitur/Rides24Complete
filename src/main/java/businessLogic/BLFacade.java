@@ -1,7 +1,7 @@
 package businessLogic;
 
 import java.util.Date;
-//si2
+//sino
 import java.util.List;
 
 //import domain.Booking;
